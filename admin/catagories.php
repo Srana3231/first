@@ -32,6 +32,7 @@
   $res=mysqli_query($conn,$sql);
 ?>
 <div class="container-fluid">
+<div></div>
   <div class="row">
     <?php
         require "nav.inc.php";
